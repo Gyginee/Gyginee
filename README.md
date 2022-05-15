@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋
 I'm Nguyễn Minh Hùng aka Gyginee
 >About me ? Just a person who has a fairly simple lifestyle doesn't care too much about appearance, is single, and wants to develop himself from career to love ^^.
@@ -13,3 +14,4 @@ I'm Nguyễn Minh Hùng aka Gyginee
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gyginee)
   ---
 ![](https://komarev.com/ghpvc/?username=Gyginee&label=Visitors+Count&color=brightgreen)
+</div>
