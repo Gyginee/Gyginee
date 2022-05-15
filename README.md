@@ -7,8 +7,9 @@ I'm Nguyễn Minh Hùng aka Gyginee
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=fqxh04f9hsnv1b02zszwwqq4u&cover_image=true&theme=default" /></div>  
 
 ## 🌐Socials
+<div align="center">
 [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://Gyginee.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qdV2gVhmmg) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gygine/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mhung01/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyginee/) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Gyginee/)
-
+</div>  
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
