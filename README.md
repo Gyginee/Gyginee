@@ -4,7 +4,7 @@ I'm Nguyễn Minh Hùng aka Gyginee
 >About me ? Just a person who has a fairly simple lifestyle doesn't care too much about appearance, is single, and wants to develop himself from career to love ^^.
 ### Favorite 👋
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fqxh04f9hsnv1b02zszwwqq4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fqxh04f9hsnv1b02zszwwqq4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🌐Socials
 
